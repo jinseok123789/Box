@@ -9,3 +9,4 @@ pull = 당기시요
 push = 밀어라
 
 commit = 찍다 
+123
